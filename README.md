@@ -42,3 +42,10 @@ Wet lab protocols used in the Guttman Lab
 <ul>
   <li>Shimmybot instructions
 </ul>
+
+<b><a href="https://github.com/DSGlab/protocols/tree/master/Recipes">Recipes:</a></b>
+<ul>
+  <li>  Hrp-Inducing Medium (M9 Minimal Media) recipe
+  <li>  King's Broth B (KB) recipe
+  <li>  Lysogeny Broth (LB) recipe (aka Luria-Bertani)
+</ul>
