@@ -1,0 +1,21 @@
+Setting up a transformation
+
+Be sure to include both positive (uncut vector) and negative (cut vector, no insert) controls. Prior to beginning the transformation (or during the 1hr incubation in the 37°C shaker), pour fresh plates with the appropriate antibiotics. Keep the comp cells on ice at *all* times, unless otherwise noted. 
+
+1. Thaw ligation product, place competent cells on ice and label. As soon as movement is noted in competent cell tubes, add 8-10μL ligated DNA. Freeze remaining ligation product at -20°C.
+
+2. Incubate at 4°C for ~20mins. Check heat block is at 42°C. Transport competent cell tubes to heat block while on ice. 
+
+3. Heat shock at 42°C for 50secs. Temperature is more important than time, can go up to 90 secs max.
+
+4. Place on ice (4°C) or at room temp for 2mins. Prep yellow top glass tubes with 1mL SOC each. 
+
+5. Invert tubes 2-3X or tap gently to mix, then transfer from microcentrifuge tube to yellow top tube. Shake at 37°C for 60mins. Keep the microcentrifuge tubes.
+
+6. Crack open freshly poured plates in the hood 10-15mins prior to removal of yellow top tubes from shaker.
+
+7. Transfer liquid media back into microcentrifuge tubes and pellet bacteria (4600rpm for 5mins). Withdraw all the supernatant but ~100μL. Resuspend.
+
+8. Set out triangular spreader, 95% EtOH and labeled plates. Working next to the flame, sterilize the spreader and allow it to burn off. Withdraw resuspended bacteria and pipet onto plate. Allow the spreader to cool on agar slightly, then spread the bacteria into an even lawn. If performing a large number of transformations, it is often faster to use 6mm glass beads instead of a spreader. To do this, pour 3-5 sterile glass beads into each plate, add resuspended bacteria, place the lid on the dish, and shake plate to spread. Pour used glass beads into 70% EtOH, then wash, rinse and re-autoclave.
+
+Place the plates in the 37°C incubator overnight. Colonies may require 2 days to grow.

@@ -1,0 +1,30 @@
+Electroporation for P. syringae
+
+Materials Needed:
+KB broth.
+0.5 M sucrose (171.15 g/L), filter sterilized, store at 4oC.
+Pre-chilled 0.2 mm cuvettes (on ice).
+
+General Notes:
+Keep cells as cold as possible throughout protocol.
+Perform washes as fast as possible. Do not let cells sit for any period of time.
+Pre-cool cuvettes and centrifuge. Pre-warm plates.
+
+Protocol:
+1. Grow bacteria overnight in 5 mL aliquots of KB broth at 30oC. Best results are obtained when the cells inoculated to broth are very "fresh."
+
+2. Cool culture on ice and pellet 1 mL of cells for 10 min at 1500 xg (4000 RPM for Beckman Coulter tabletop). 
+
+3. Decant off medium and resuspend cells by pipetting up and down in 1 mL of ice-cold 0.5 M sucrose. Pellet cells again (10 min 1500 xg).
+
+4. Repeat step 3 twice more.
+
+5. Resuspend final pellet in 0.2 to 0.5 mL of 0.5 M sucrose (OD600 approx 3). Cells can be kept on ice for several hours if necessary.
+
+6. Add 0.1 - 1 ug of plasmid DNA to 200 uL of washed cells in pre-chilled cuvette (amount of DNA should be varied, but volume should not exceed 5 uL). Mix gently and electroporate within 30 min.
+
+7. Electroporate at settings of 2.5 kV, 400 ohms and 25 uf. (if using 0.1 mm cuvettes, reduce resistance to 200 ohms).
+
+8. Immediately after pulse add 1 mL of KB broth to cuvette, gently mix cells, and transfer to test tube.
+
+9. Incubate 1.5 - 2 hr at 30oC in shaker to recover cells, then plate onto the appropriate pre-warmed plates (Efficiency is often very high, so plate out  10-20 uL on one plate to avoid getting a lawn).

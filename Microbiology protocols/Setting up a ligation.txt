@@ -1,0 +1,11 @@
+Setting up a ligation
+
+Run out the insert and vector on a gel to determine their relative concentrations. Dephosphorylate the vector with SAP (or CIP) to remove the 5’ phosphates and prevent re-ligation, and kinase the insert to add 5’ phosphates.
+
+Dephosphorylated linear vector DNA: variable
+Kinased insert DNA: variable
+10X ligation buffer: 1 uL
+T4 DNA ligase: 1 uL
+dH2O: to 10uL
+
+Set up a ligation reaction with vector:insert at a 1:3 molar ratio. Keep the volume small (~10uL). After adding all reagents, mix gently and spin down. Incorporate a negative control (omit insert). Incubate overnight at 16°C. Store at -20°C.

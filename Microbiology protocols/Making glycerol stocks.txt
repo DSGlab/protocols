@@ -1,0 +1,7 @@
+Making glycerol stocks
+
+If you are stocking a general access lab strain, you will stock in triplicate, and separate the tubes out into the General Access, Restricted Access, and Offsite Backup boxes, after registering them in the strain database. If you access a strain repeatedly from the General Access box, make your own glycerol stock(s) and keep it in your personal storage area.
+
+To stock a strain, set up a 5mL liquid overnight culture with the appropriate antibiotics. The next morning, prepare your 3 cryogenic vials by labeling the sides with the strain name, media and antibiotic(s) grown in, the date and your initials. After registering the strain in the lab database, you will obtain a unique ID. Mark this on the side, and on the small cap inserted into the lid. Next, add 900uL sterile 20% glycerol to each cryovial at the flame. Have a box ready to receive the cryovials in the -80°C. 
+
+Add 900uL of liquid overnight culture to the cryovial, and mix gently by pipetting up and down to ensure the bacteria are well dispersed in the glycerol. Cap it, and place the tube immediately in the -80°C freezer.
