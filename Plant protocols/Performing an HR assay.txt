@@ -1,0 +1,37 @@
+Performing an HR assay   
+
+Arabidopsis:
+
+One day prior to inoculation of the plants, set up an overnight culture on solid media, and label the plants with their intended treatment.
+
+On day of inoculation, dome plants for at least 15 min to open stomata. Resuspend a loopful of bacteria in 1 mL of 10mM MgSO4 and determine the OD600 of this suspension.
+
+For standard HR assays, the final OD600 will be 0.3, 0.1 and 0.03 (1.5 x 108, 5 x 107 and 1.5 x 107). Each Arabidopsis leaf requires approximately 200uL, and you will be infiltrating 1 leaf per plant * 6 plants. You will thus need 2mL of inoculum for each concentration:
+
+Required vol. of bacterial suspension = [(final OD600)(final volume)]/[(OD600)(dilution factor)] 
+
+Draw up the final suspension with a 1mL blunt end syringe, then gently infiltrate the undersides of the left side of each leaf. Infiltrate a different leaf on each plant with each strain of bacteria being tested.
+
+Leave plants in lab overnight. Score HR symptoms 16+ hrs after innoculation. Weak HRs will require up to 24 hrs to score. Photograph leaves against matte black background with sides blocked using flash.
+
+  Bean Pods:
+
+Materials:
+   96 well plate
+   50 mL conical full of 70% ethanol
+   sterile toothpicks
+
+Protocol:
+1. Use pods attached to plants, 1 pod/strain being tested.
+2. Prepare strains by resuspending fresh overnights in 500 mL 10 mM MgSO4 in microfuge tubes; spec to get concentration.
+3. Prepare inocula:
+   -in 96 well plate
+   -100 µL 10 mM MgSO4
+   -add resuspended cultures to needed concentration (5x108 = OD 1.0)
+4. Surface sterilize each pod by immersing in 50 mL conical of 70% ethanol for 20 sec.
+5. Allow pod to dry.
+6. Deposit 2 µL drop of inoculum onto pod along horizontal middle.
+7. Jab toothpick into middle of inoculum drop, through tissue.
+8. Keep inoculations at least 0.5 cm apart (6 inoculations / pod)
+9. Allow to air dry (do not let run!)
+10. Score after two days (water soaking = virulence; sunken red = HR)
