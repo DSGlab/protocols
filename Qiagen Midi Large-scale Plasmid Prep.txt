@@ -1,0 +1,55 @@
+Qiagen Midi Large-scale Plasmid Prep (from Pauline Wang)
+
+This protocol is modified to prepare large quantities (20-50μg) high purity DNA from 250mL cultures of a low copy plasmid in E. coli. The P1, P2, and P3 addition steps and subsequent centrifugations are crucial to the successful purification of the plasmid and should be performed exactly as described.
+ 
+Reagents 
+P1
+50mM Tris-HCl, pH8.0
+10mM EDTA
+100μg/ml RNAse A - add after autoclaving
+ 
+P2
+0.2M NaOH
+1% SDS
+ 
+P3
+3M KAc, pH 5.5
+ 
+Supplies
+Qiagen-Tip 100 columns
+Buffer QBT
+Buffer QC
+Buffer QF
+Isopropanol
+70% EtOH
+TE
+ 
+1. Grow 250ml culture in LB supplemented with the appropriate antibiotic. Grow with adequate mixing for 14-16 hrs. Try to achieve an OD600nm of 1.4-1.6.
+ 
+2. Spin culture in 250 ml buckets in GSA rotor/Sorval at 5000 rpm for 15 min.
+ 
+3. Resuspend bacterial pellet in 8 ml of P1. Pipet up and down using 10ml pipet and resuspend completely. Transfer cells to Oak Ridge tubes.
+ 
+4. Add 8 ml of P2 and mix tubes gently by inverting tubes head over tails slowly 10 times.
+ Incubate at room temperature for 5 min.
+ 
+5. Add 8 ml of chilled P3 and mix tubes gently by inverting tubes slowly 10 times.
+ Excessive violent mixing will cause E. coli genomic DNA contamination Incubate on ice for 15 min.
+ 
+6. Centrifuge at 4°C in Sorvall RC 28S centrifuge using SS34 rotor for 8 tubes or SA600 for 12 tubes. (Weigh all tubes before spin.)  Spin at ~33,000 G or more (15,000 rpm for SS-34) for 30 min. and remove supernatant promptly. Pour into new 50 ml Oak Ridge tubes on ice.
+ 
+7. Centrifuge again as in step 6. Even though your supernatant may appear clear you must centrifuge again since skipping this step will cause the column to clog. Transfer supernatant to 50 ml conicals and keep on ice.
+ 
+8. Equilibrate Qiagen-tip 100 columns with 4ml of buffer QBT (flow-through is waste).
+ 
+9. Apply the supernatant from step 7 onto Qiagen-tip 100 columns.
+ 
+10. Wash the Qiagen-tip 100 with 2x 10ml of buffer QC (flow-through is waste).
+ 
+11. Elute the DNA with 5 ml of Buffer QF into new 50ml conicals.
+ 
+12. Add equal volume (5ml) of isopropanol, mix and let sit at room temperature at least 30 min. (Stop step: can store at 4°C)
+ 
+13. Centrifuge at 15,000 Rpm for 30 min at 4°C. For the Sorval SA-600 rotor 9,000 rpm ~ 11,700 G.
+ 
+14. Wash pellet with 5 ml of room temperature 70% EtOH. Spin again for 10mins. Air dry. Resuspend in 100 μl TE and tape tube onto rack in correct position over pellet.

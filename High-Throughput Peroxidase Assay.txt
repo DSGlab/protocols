@@ -1,0 +1,57 @@
+High-Throughput Peroxidase Assay
+ 
+GA Mott & DS Guttman
+Department of Cell & Systems Biology
+University of Toronto
+ 
+Aug 2012
+ 
+Modified from Felix et al. 1999. The Plant Journal 18(3), 265-276.
+ 
+Required reagents and equipment
+	• Mature but non-bolted (4-5 week old) Arabidopsis plants
+	• Cork Borer, #1 disk size (4.8mm diameter)
+	• Shaker or rocker
+	• Plate reading spectrophotometer
+	• 96 well microtitre plates with lids
+	• 1.5ml microfuge tubes
+	• Forceps
+	• Parafilm
+	• Sterile 1X MS buffer
+	• Sterile ddH20
+	• 1M NaOH
+	• 1% H2O2
+	• 5-aminosalicylic acid (5-AS, Sigma)
+ 
+ 
+1. Sampling & Pre-Wash
+	a. Take one leaf core for each treatment from one Arabidopsis leaf using a #1 or #2 cork borer
+	b. Place all the leaf cores for a single treatment into a 1.5 ml microfuge tube containing 1ml of 1X MS
+	c. Repeat for a total of 6 replicates per treatment.
+	d. Wash disks by gently rotating or rocking for 30 minutes
+ 
+2. Assay Plate Preparation
+	a. Use only 10 columns and 6 rows on each microtiter plate. Treatments are arrayed by columns, while replicates are arrayed by rows.
+	b. Place 50 μl  of 1X MS containing the treatment peptide in each treatment well
+	c. Fill the edge wells completely with sterile ddH2O in order to minimize evaporation and edge effects
+ 
+3. Sample Treatment
+	a. Gently place a single leaf disk in the bottom of each well such that a single row of the plate contains disks from a single leaf. This allows a repeated measures analysis to be performed on the results.
+	b. Treat each well with the test substance
+		• Protein preps – use up to 15 μl
+		• Peptides – concentration should be determined empirically, but typically range between 10pM-1uM
+	c. Cover the plate and Parafilm the edges
+	d. Gentle shake or rock the plate for 16-20 hours in the light at room temperature
+ 
+4. Substrate Preparation
+	a. Heat ddH2O to 70oC
+	b. Dissolve 10 mg of 5-AS in 10 ml of heated ddH2O
+	c. Cool solution to room temperature
+	d. pH to ~6 with NaOH
+	e. Add 100 μl of 1% H2O2
+ 
+5. Sample Assay
+	a. Remove the leaf disks from their microtitre plate wells
+	b. Add 50 μlμl of 5-AS solution to each well and mix gently by tapping
+	c. Readings
+		• The reaction can be stopped via the addition of NaOH at which point final readings are taken at 550 nm

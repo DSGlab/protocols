@@ -1,0 +1,34 @@
+Setting up a sequencing reaction
+
+For plasmid templates:
+Place at 86º for 5 minutes, then cool to room temp before adding to the sequencing reaction. For plasmids <5 kb, use 100ng/kb. For larger plasmids, consult CAGEF to determine appropriate reaction conditions.
+
+For PCR product templates:
+If nice, strong PCR product bands are seen upon running 1/10th of the sample on an agarose gel (ie. 2ul run out of 20ul), perform enzymatic cleanup protocol first:
+
+For a 20uL PCR reaction volume, add 0.2uL ExoI (1/100th vol) and 0.2uL CIP (1/100th vol)
+Incubate at 37°C for 30 minutes.
+Inactivate at 85°C for 15 minutes.
+Proceed to sequencing reaction below.
+
+Add up to 5ul of template, whether enzymatically cleaned PCR product or purified plasmid.
+
+Cycle sequencing reaction:
+
+Reagent (1X)
+template PCR: ~50ng, plasmid: 250-500 ng (see above).
+BigDye mix: 0.5µl
+10uM primer: 0.5µl (0.5µM)
+5X seq buffer: 1.75µl
+ddH2O: up to 10µl 
+
+The example above used 3ul of template, but you can use more or less and adjust the water. If you need Betaine, add 2ul to a 10ul reaction (1M final conc.), and adjust the water.
+
+Sequencing cycle program: 
+1. 96°C, 1 minute 1 X
+2. 96°C, 10 seconds 
+3. 50°C, 5 seconds 
+4. 60°C, 4minutes 
+5. Repeat steps 2-4 45X*
+6. 60°C, 4 minutes 1X
+4°C for ever

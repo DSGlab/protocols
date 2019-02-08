@@ -1,0 +1,20 @@
+Vacuum Infiltration Protocol
+
+1.  Prepare the needed number of size #1 or size #2 cores for your study, and wash for 1 hour while rotating at 100 rpm at RT in 1 ml of 1x MS.
+2. Prepare your bacterial suspension as usual to a final OD of 0.0005, but make the final dilution in 1x MS containing 0.01% silwet for arabidopsis, exact silwet concentrations required for other species will need to be determined.
+3. Place a single disk into the well of a 96 well plate along with 100 μl of bacterial suspension.
+4. Vacuum infiltrate the disks by placing under vacuum at 60-70 kPa for 1-2 minutes, then release vacuum and visually inspect for complete and even infiltration, an additional vacuum cycle may be needed.
+5. Immediately aspirate the bacterial solution and add 200 μl of 1x MS to each well.
+6. Ensure each disk is well washed and then aspirate the 1x MS and replace with a further 100 μl of 1x MS.
+7. Wash disks while rotating for 1 hour at RT.
+8. Aspirate the wells and add a final 100 μl of 1x MS to each well, parafilm the plate and incubate for 3 days rotating with light
+9. Prepare for plating by making 96 well plates for dilutions (1 in 10 to 1 in 100000) and labelling plates
+10. The following steps should be done with aseptic technique and using fresh tips to aspirate at each step. At this step the liquid placed in the edges of the plate to reduce evaporating should be removed to reduce the likelihood of problems with plate sealing later on. Aspirate the MS from each well and add 100 μl of 70% ethanol
+11. As soon as the ethanol is added to the whole plate, quickly agitate the plate to ensure all disks are treated and aspirate off the ethanol
+12. Add 100-200 μl of 1x MS to each well and agitate to wash the disks
+13. Aspirate the MS and wash one more time before adding a final 100μl to each well
+14. Add a single sterile glass bead to each well and blot the top of the plate with a clean kimwipe to ensure the tops of the wells are dry for sealing
+15. Seal the plate using a PCR foil plate seal and carefully seal each well. It is also a good idea to then use packing tape to cover the foil in case the bead breaks the foil. Fold a paper towel in half and place over the plate before putting the lid back on, to reduce the terrible sound in the next step.
+16. Place the plate into the bead beater and beat for 1 to 2 minutes. 
+17. Remove the film from the plate and prepare the proper dilutions.
+18. Plate onto selective plates and grow for 3 days

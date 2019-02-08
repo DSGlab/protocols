@@ -1,0 +1,9 @@
+Phenol/chloroform extraction of DNA
+
+This is a highly effective method of purifying DNA. Work in the organics fume hood, and dispose of solid and liquid organic waste appropriately.
+Mix your sample in a microcentrifuge tube with 0.5 volume TE-saturated phenol, and 0.5 volume chloroform. Centrifuge at 10,000rpm for 5mins at room temp.
+Transfer the upper aqueous phase to a fresh tube and add an equal volume of chloroform. Mix, then centrifuge at 10,000rpm for 5mins at room temp.
+Transfer the upper phase to a fresh tube. Add 1/10 volume of 3M sodium acetate or 2M sodium chloride and mix, then add an equal volume of cold isopropanol or 2.5 volumes of EtOH to precipitate the DNA.
+Incubate for 30-60 mins at -20°C, then centrifuge at 10,000rpm for 10mins. 
+Discard the supernatant, and rinse the pellet by adding 1mL 70% cold EtOH, and spin at 10,000 for 5mins. Rinse again, then air-dry the pellet.
+Dissolve the pellet in sterile dH2O or TE buffer for further use. Store at -20°.
