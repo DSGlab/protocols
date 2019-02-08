@@ -1,0 +1,36 @@
+Modified TENS Miniprep
+
+   *** MAKE FRESH TENS BUFFER EVERY TIME YOU PREP ***
+
+Reagents:
+   Fresh TENS Buffer ( 0.1 N NaOH and 0.5% SDS in T10E1 )
+   Cold 3.0 M KOAc ( 3.0 M KOAc (pH ≤ 5.2)
+   Cold 100% ethanol
+   Cold 70% ethanol 
+   TE
+   RNase
+
+To make TENS buffer for 10 plasmid preps:
+   100 µL 20% SDS
+   40 µL 10N NaOH
+   3.86 mL T10E1 (pH 7.5)
+
+To make TE:
+   10 mL 1M Tris (Ph 7.5)
+   0.2 mL 0.5M EDTA
+   89.8 µL H2O
+
+
+Protocol:
+1. Spin 1 mL overnight culture at 4,000 rpm for 5 min.
+2. Remove supernatant.
+3. Add 30 µL TE and vortex 2-5 sec to resuspend the pellet.
+4. Add 300 µL TENS buffer. Gently invert to mix (shaking too hard will result in isolation of chromosomal DNA).
+5. Add 150 µL cold 3.0 M KOAc (pH ≤ 5.2). Invert to mix.
+6. Spin at 13,000 rpm for 10 min at RT to pellet proteins.
+7. Transfer supernatant to clean tube. Spin again.
+8. Trandfer supernatant to clean tube. Add 1 mL cold 100% ethanol and invert to mix.
+9. Spin at 13,000 rpm for 10 min at RT to pellet DNA.
+10. Discard supernatant and add 1 mL cold 70% ethanol. Spin for 5 min and repeat wash again. Air dry for 1 hour.
+11.Resuspend in 30 µL TE. Add 0.5 µg RNase A (0.5 µL of 19mg/mL stock) and incubate at 37ºC for 1 hour.
+12. Run 1-2 µL on gel to check.
