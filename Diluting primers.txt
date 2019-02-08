@@ -1,7 +1,0 @@
-Diluting primers
-
-Primers are typically shipped as lyophilized (freeze-dried) DNA in a microcentrifuge tube. The supplier will state the melting temperature (Tm) and amount (in nMoles) of the primer shipped. We typically work with 10mM primer stocks, but prepare these from a 50mM stock kept at -20°C to prevent contamination.
-
-Dilute the primer to a final concentration of 50mM with sterile TE, shake gently at room temp on the vortexer, label the top with the primer code (lab supply) or the primer name (personal), and mark the concentration on the side. 
-
-Prepare a 2mL tube of 10mM primer stock by labeling the cap with the primer name and concentration, and the side with the name, concentration, and date. Place this in your fridge, and store the 50mM primer at -20°C.
