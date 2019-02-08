@@ -1,31 +1,39 @@
 # protocols
 Wet lab protocols used in the Guttman Lab
 
-Plant protocols:
-  Performing a growth assay
-  Growth assay data template
-  Performing an HR assay
-  Seed Sterilization
-  Vacuum Infiltration Protocol
+<b>Plant protocols:</b>
+<ul>
+<li>  Performing a growth assay
+<li>  Growth assay data template
+<li>  Performing an HR assay
+<li>  Seed Sterilization
+<li>  Vacuum Infiltration Protocol
+</ul>
+<p>
+
+<b>Molecular protocols:</b>
+<ul>
+<li>  Diluting primers
+<li>  Phenol-chloroform extraction of DNA
+<li>  Pouring running and visualizing gels
+<li>  Setting up a PCR
+<li>  Setting up a BigDye sequencing reaction
+<li>  Qiagen Midi Large-scale Plasmid Prep
+<li>  Modified TENS Miniprep
+<li>  High-Throughput Peroxidase Assay
+<li>  High-Throughput DNA isolation
+</ul>
+<p>
   
-Molecular protocols:
-  Diluting primers
-  Phenol-chloroform extraction of DNA
-  Pouring running and visualizing gels
-  Setting up a PCR
-  Setting up a BigDye sequencing reaction
-  Qiagen Midi Large-scale Plasmid Prep
-  Modified TENS Miniprep
-  High-Throughput Peroxidase Assay
-  High-Throughput DNA isolation
-  
-Microbiology protocols:
-  Pouring plates
-  Blue-white selection
-  Growing overnight cultures of bacteria
-  Making glycerol stocks
-  Streaking out strains from glycerol
-  Electroporation for P. syringae
-  Setting up a ligation
-  Setting up a transformation
-  Isolation of P. aeruginosa from soil
+<b>Microbiology protocols:</b>
+<ul>
+<li>  Pouring plates
+<li>  Blue-white selection
+<li>  Growing overnight cultures of bacteria
+<li>  Making glycerol stocks
+<li>  Streaking out strains from glycerol
+<li>  Electroporation for P. syringae
+<li>  Setting up a ligation
+<li>  Setting up a transformation
+<li>  Isolation of P. aeruginosa from soil
+</ul>
