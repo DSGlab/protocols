@@ -1,0 +1,28 @@
+Hrp-Inducing Medium
+
+Defined mineral salts media is made by adding various carbohydrates, amino acids, and organic acids from concentrated, filter-sterilized stocks to M9-salts medium
+
+For P. syringae pv. phaseolicola, the carbon source is sucrose. The final concentrations of the carbon sources or other individual supplements were 5mM and the pH was adjusted to pH 5.5
+
+M9 MINIMAL MEDIUM
+
+Per liter: To 750mL of sterile deionized water (cooled to 50ºC or less), add:
+
+5X M9 salts							200mL
+1M MgSO4							2mL
+20% carbon source (eg; 20% sucrose)	20mL
+1M CaCl2							0.1mL
+sterile deionized water				to 1L
+
+If necessary, supplement the M9 medium with stock solutions of the appropriate amino acids
+
+5X M9 salts is made by dissolving the following salts in deionized water to a final volume of 1L:
+
+Na2HPO4 7H2O    64g
+KH2PO4          15g
+NaCl            2.5g
+NH4Cl           5g
+
+The salt solution is divided into 200mL aliquots and sterilized by autoclaving for 15 min at 15 psi on liquid cycle
+
+The MgSO4 and CaCl2 solutions should be prepared separately, sterilized by autoclaving, and added after diluting the 5X M9 salts to 1L with sterile water. Glucose should sterilized by filtration before it is added to the diluted M9 salts.
